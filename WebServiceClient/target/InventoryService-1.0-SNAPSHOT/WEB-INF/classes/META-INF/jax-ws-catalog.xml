@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Sarbjot_Test1_N01392504/UserServiceService?WSDL" uri="wsdl/localhost_8080/Sarbjot_Test1_N01392504/UserServiceService.wsdl"/>
+    <system systemId="http://localhost:8080/Sarbjot_Test1_N01392504/UserServiceService?xsd=1" uri="wsdl/localhost_8080/Sarbjot_Test1_N01392504/UserServiceService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Sarbjot_Test1_N01392504/InventoryServiceService?WSDL" uri="wsdl/localhost_8080/Sarbjot_Test1_N01392504/InventoryServiceService.wsdl"/>
+    <system systemId="http://localhost:8080/Sarbjot_Test1_N01392504/InventoryServiceService?xsd=1" uri="wsdl/localhost_8080/Sarbjot_Test1_N01392504/InventoryServiceService.xsd_1.xsd"/>
+</catalog>
